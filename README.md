@@ -2,7 +2,7 @@
 
 - I’m interested in programming in general, I like Games and Animes but anything tech related can catch my eyes 
 
-- I’m currently learning some front end skills and trying to make some repositories on github with python and GO
+- I’m currently focused on some front end skills and trying to make some repositories on github with python and GO
 
 - My knowledge right now is: HTML, CSS, JS, TYPESCRIPT, C#, PYTHON, GO, POWERAPPS, REACT (I'm Not a pro, just used all of these for small individual projects, but i learn really fast)
 

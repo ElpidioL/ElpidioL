@@ -12,8 +12,9 @@
 - Thanks for reading this :) hope you have a good day
 
 
-- https://www.linkedin.com/in/elpidio-lomeu-ba2612231/
-- https://github.com/ElpidioL/
+ https://www.linkedin.com/in/elpidio-lomeu-ba2612231/
 
+ https://github.com/ElpidioL/
 
+https://www.codewars.com/users/azirsold
 

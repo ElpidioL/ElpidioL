@@ -20,4 +20,4 @@ https://www.codewars.com/users/azirsold
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElpidioL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![image]([https://www.codewars.com/users/uyncis/badges/large](https://www.codewars.com/users/ElpidioL/badges/large)) 
+![image](https://www.codewars.com/users/ElpidioL/badges/large)

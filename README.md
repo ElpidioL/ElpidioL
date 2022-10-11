@@ -2,20 +2,22 @@
 
 - I’m interested in programming in general, I like Games and Animes but anything tech related can catch my eyes 
 
-- I’m currently focused on some front end skills and trying to make some repositories on github with python and GO
+- I’m currently working part time using Python, Django, SQLite | HTML, CSS, JS, and react sometimes.
 
-- My knowledge right now is: HTML, CSS, JS, TYPESCRIPT, C#, PYTHON, GO, POWERAPPS, REACT (I'm Not a pro, just used all of these for small individual projects, but i learn really fast)
+- And studying at a university on Brasil (Pontifical Catholic University of Minas Gerais) 
 
-- How to reach me: for now there is not many ways to do so, but you can contact me on Discord: TheBlackCake#8549 or email: lomeuelpidio@gmail.com (preference to discord)
-    but I have intentions to expand this later on
+- My knowledge right now is: Python, Django, GO, C#, Js, React, HTML, CSS, Typescript, PostgreSQL, Sqlite
+
+- How to reach me: 
+-   email: lomeuelpidio@gmail.com 
+    linkedin: https://www.linkedin.com/in/elpidio-lomeu-ba2612231/
  
 - Thanks for reading this :) hope you have a good day
-
-
- https://www.linkedin.com/in/elpidio-lomeu-ba2612231/
 
  https://github.com/ElpidioL/
 
 https://www.codewars.com/users/azirsold
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElpidioL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![image]([https://www.codewars.com/users/uyncis/badges/large](https://www.codewars.com/users/ElpidioL/badges/large)) 

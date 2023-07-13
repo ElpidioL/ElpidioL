@@ -4,7 +4,7 @@
 
 - I’m currently working part time using Python, Django, SQLite | HTML, CSS, JS, and react sometimes.
 
-- And studying at a university on Brasil (Pontifical Catholic University of Minas Gerais) 
+- And studying at a university on Brazil (Pontifical Catholic University of Minas Gerais) 
 
 - My knowledge right now is: Python, Django, GO, C#, Js, React, HTML, CSS, Typescript, PostgreSQL, Sqlite
 

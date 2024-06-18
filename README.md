@@ -1,18 +1,8 @@
 - Hi, I’m @ElpidioL or TheBlackCake
 
-- I’m interested in programming in general, I like Games and Animes but anything tech related can catch my eyes 
-
-- I’m currently working part time using Python, Django, SQLite | HTML, CSS, JS, and react sometimes.
-
-- And studying at a university on Brazil (Pontifical Catholic University of Minas Gerais) 
-
-- My knowledge right now is: Python, Django, GO, C#, Js, React, HTML, CSS, Typescript, PostgreSQL, Sqlite
-
 - How to reach me: 
 -   email: lomeuelpidio@gmail.com 
     linkedin: https://www.linkedin.com/in/elpidio-lomeu-ba2612231/
- 
-- Thanks for reading this :) hope you have a good day
 
  https://github.com/ElpidioL/
 

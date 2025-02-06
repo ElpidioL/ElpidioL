@@ -2,7 +2,7 @@
 
 - How to reach me: 
 -   email: lomeuelpidio@gmail.com 
-    linkedin: https://www.linkedin.com/in/elpidio-lomeu-ba2612231/
+-   linkedin: https://www.linkedin.com/in/elpidio-lomeu-ba2612231/
 
  https://github.com/ElpidioL/
 
